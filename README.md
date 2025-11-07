@@ -1,6 +1,6 @@
 # Hi ...Let`s connect!!
-I am a Materials Science & Engineering graduate (M.Sc, CAU, Kiel) who aims at contributing in  data-driven materials-research force! I find functional materials  magnetism, super alloys, quantum materials (e.g., super capacitors) pretty interesting!
-I love facing challenges and winning them down. I Love playing guitar, playing football, badminton, cricket. 
+I am a Materials Science & Engineering graduate (M.Sc, CAU, Kiel) who aims at contributing in  data-driven materials-research force! I am drawn to the materials systems in functional materials, quantum materials, magnetism, super alloys. 
+I love facing challenges and winning them down.  I Love playing guitar, playing football, badminton, cricket. 
 
 
 
