@@ -1,6 +1,5 @@
 # Hi ...Let`s connect!!
-I am a Materials Science & Engineering graduate (M.Sc, CAU, Kiel) who finds data-driven materials-research (more specifically., high-throuput-materials development) very promising and fascinating! 
-Inclined towards the application of AI in: functional materials (e.g., Piezoelectric, magnetostrictive, shape-memory alloys etc.) magnetism, super alloys, quantum materials (e.g., super capacitors)!
+I am a Materials Science & Engineering graduate (M.Sc, CAU, Kiel) who aims at contributing in  data-driven materials-research force! I find functional materials  magnetism, super alloys, quantum materials (e.g., super capacitors) pretty interesting!
 I love facing challenges and winning them down. I Love playing guitar, playing football, badminton, cricket. 
 
 
