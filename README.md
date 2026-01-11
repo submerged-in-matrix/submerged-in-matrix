@@ -5,6 +5,4 @@ Enough nerdy talks!!!!!!!!! I love facing challenges and winning them down.  I L
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=submerged-in-matrix&layout=compact&theme=radical&v=3)
 
-
-
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=submerged-in-matrix&theme=radical&v=2)](https://github.com/DenverCoder1/github-readme-streak-stats)
