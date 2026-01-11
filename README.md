@@ -3,8 +3,6 @@ I am a Materials Science & Engineering graduate (M.Sc, CAU, Kiel) who aims at co
 Enough nerdy talks!!!!!!!!! I love facing challenges and winning them down.  I Love playing guitar, playing  sports (football, badminton, cricket). Interested in psychology, religion, History.
 
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=submerged-in-matrix&layout=compact&theme=radical&hide=Jupyter%20Notebook&v=2)
 
 
