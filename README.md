@@ -5,23 +5,31 @@ Expertise in predictive modeling of dynamic systems, P-S-P linkages. I work and 
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=submerged-in-matrix&theme=radical&v=2)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-## 🧰 My Tech Stack
+## 🧰 Core Stack — Materials Informatics
 
-### Core Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gnuplot](https://img.shields.io/badge/Gnuplot-2E5A88?style=for-the-badge&logo=gnuplot&logoColor=white)
-
-### ML & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FFD43B?style=for-the-badge&logo=openai&logoColor=black)
-
-### Materials Science & Simulation
+### Atomistic & Continuum Simulation
+![LAMMPS](https://img.shields.io/badge/LAMMPS-6B8E23?style=for-the-badge&logo=lammps&logoColor=white)
 ![Quantum ESPRESSO](https://img.shields.io/badge/Quantum_ESPRESSO-6C2DC7?style=for-the-badge&logo=quantum&logoColor=white)
-![DFT](https://img.shields.io/badge/DFT-1177AA?style=for-the-badge)
-![FEM](https://img.shields.io/badge/FEM-FF5722?style=for-the-badge)
+![COMSOL](https://img.shields.io/badge/COMSOL-FF6F00?style=for-the-badge&logo=comsol&logoColor=white)
 
-### Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+### Machine Learning for Materials
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PINN](https://img.shields.io/badge/PINNs-1177AA?style=for-the-badge)
+![GNNs](https://img.shields.io/badge/GNNs-4B8BBE?style=for-the-badge)
+
+### Materials Informatics & Data
+![Matminer](https://img.shields.io/badge/Matminer-2E5A88?style=for-the-badge)
+![Pymatgen](https://img.shields.io/badge/Pymatgen-4479A1?style=for-the-badge)
+![RDKit](https://img.shields.io/badge/RDKit-0D8A7A?style=for-the-badge)
+![Semantic Web](https://img.shields.io/badge/Semantic_Web_(RDF%2FSPARQL)-005A9C?style=for-the-badge)
+
+### Programming & Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### High-Throughput Workflows
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
