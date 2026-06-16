@@ -1,5 +1,5 @@
 # Hi ...Let`s Connect -- Collaborate -- Research!
-Expertise in predictive modeling of dynamic systems, P-S-P linkages. I work and am committed to contribute in data-driven materials-research workflows! Some favourite materials-systems: Functional materials, Quantum materials, Magnetic materials, Super alloys & High Entropy alloys. Outside the Lab :::: creative problem-solving and collaborative teamwork through regular engagement in guitar practice and team sports (Football, Badminton). 
+Expertise in predictive modeling of dynamic systems, first principle DFT study and MD Simulations/FEM Simulations, materials-data infrastructures >> unlocking P-S-P linkages in materials system and hence, accelerate materials discovery. Some favourite materials-systems: Functional materials, Quantum materials, Magnetic materials, Super alloys & High Entropy alloys. Outside the Lab :::: creative problem-solving and collaborative teamwork through regular engagement in guitar practice and team sports (Football, Badminton). 
 
 ## 🧰 Core Stack — Materials Informatics
 
