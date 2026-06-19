@@ -3,17 +3,22 @@ Expertise in predictive modeling of dynamic systems, first principle DFT study a
 
 ## 🧰 Core Stack — Materials Informatics
 
-### Atomistic & Continuum Simulation
-![LAMMPS](https://img.shields.io/badge/LAMMPS-6B8E23?style=for-the-badge&logo=lammps&logoColor=white)
+### DFT & Simulation (Atomistic & Continuum )
 ![Quantum ESPRESSO](https://img.shields.io/badge/Quantum_ESPRESSO-6C2DC7?style=for-the-badge&logo=quantum&logoColor=white)
+![LAMMPS](https://img.shields.io/badge/LAMMPS-6B8E23?style=for-the-badge&logo=lammps&logoColor=white)
+![CalculiX](https://img.shields.io/badge/CalculiX-005F9E?style=for-the-badge&logo=calculix&logoColor=white)
 ![COMSOL](https://img.shields.io/badge/COMSOL-FF6F00?style=for-the-badge&logo=comsol&logoColor=white)
+![LAMMPS](https://img.shields.io/badge/LAMMPS-6B8E23?style=for-the-badge&logo=lammps&logoColor=white)
+![ParaView](https://img.shields.io/badge/ParaView-00A3E0?style=for-the-badge&logo=paraview&logoColor=white)
 
 ### Machine Learning for Materials
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PINN](https://img.shields.io/badge/PINNs-1177AA?style=for-the-badge)
+![DNN](https://img.shields.io/badge/DNN-Surrogate-FF6F00?style=for-the-badge)
 ![GNNs](https://img.shields.io/badge/GNNs-4B8BBE?style=for-the-badge)
+![Active Learning](https://img.shields.io/badge/Active_Learning-6C2DC7?style=for-the-badge)
 
 ### Materials Informatics & Data
 ![Matminer](https://img.shields.io/badge/Matminer-2E5A88?style=for-the-badge)
