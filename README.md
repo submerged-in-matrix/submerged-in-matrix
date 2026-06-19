@@ -18,6 +18,7 @@ Expertise in predictive modeling of dynamic systems, first principle DFT study a
 ![DNN](https://img.shields.io/badge/DNN-Surrogate-FF6F00?style=for-the-badge)
 ![GNNs](https://img.shields.io/badge/GNNs-4B8BBE?style=for-the-badge)
 ![Active Learning](https://img.shields.io/badge/Active_Learning-6C2DC7?style=for-the-badge)
+![MLIP](https://img.shields.io/badge/MLIP-Interatomic_Potential-FF6F00?style=for-the-badge)
 
 ### Materials Informatics & Data
 ![Matminer](https://img.shields.io/badge/Matminer-2E5A88?style=for-the-badge)
