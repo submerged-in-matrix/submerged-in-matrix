@@ -8,7 +8,6 @@ Expertise in predictive modeling of dynamic systems, first principle DFT study a
 ![LAMMPS](https://img.shields.io/badge/LAMMPS-6B8E23?style=for-the-badge&logo=lammps&logoColor=white)
 ![CalculiX](https://img.shields.io/badge/CalculiX-005F9E?style=for-the-badge&logo=calculix&logoColor=white)
 ![COMSOL](https://img.shields.io/badge/COMSOL-FF6F00?style=for-the-badge&logo=comsol&logoColor=white)
-![LAMMPS](https://img.shields.io/badge/LAMMPS-6B8E23?style=for-the-badge&logo=lammps&logoColor=white)
 ![ParaView](https://img.shields.io/badge/ParaView-00A3E0?style=for-the-badge&logo=paraview&logoColor=white)
 
 ### Machine Learning for Materials
